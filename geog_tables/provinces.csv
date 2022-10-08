@@ -1,0 +1,82 @@
+,Primary-levelLGU,Type,Region,Population(2020) ,Population(2015) ,Area(km2),"Density(/km2, 2015)"
+0,Abra,province,CAR,250985,241160,4165.25,58
+1,Agusan del Norte,province,XIII,387503,354503,2730.24,130
+2,Agusan del Sur,province,XIII,739367,700653,9989.52,70
+3,Aklan,province,VI,615475,574823,1821.42,316
+4,Albay,province,V,1374768,1314826,2575.77,510
+6,Antique,province,VI,612974,582012,2729.17,213
+7,Apayao,province,CAR,124366,119184,4413.35,27
+8,Aurora,province,III,235750,214336,3147.32,68
+11,Basilan,province,BARMM,556586,459367,1327.23,346
+12,Bataan,province,III,853373,760650,1372.98,554
+13,Batanes,province,II,18831,17246,219.01,79
+14,Batangas,province,IV-A,2908494,2694335,3119.75,864
+15,Benguet,province,CAR,460683,446224,2769.08,161
+16,Biliran,province,VIII,179312,171612,536.01,320
+17,Bohol,province,VII,1394329,1313560,4820.95,272
+18,Bukidnon,province,X,1541308,1415226,10498.59,135
+19,Bulacan,province,III,3708890,3292071,2796.1,1177
+21,Cagayan,province,II,1268603,1199320,9295.75,129
+24,Camarines Norte,province,V,629699,583313,2320.07,251
+25,Camarines Sur,province,V,1859074,1756541,5412.55,325
+26,Camiguin,province,X,92808,88478,237.95,372
+27,Capiz,province,VI,804952,761384,2594.64,293
+28,Catanduanes,province,V,271879,260964,1492.16,175
+29,Cavite,province,IV-A,4344829,3678301,1574.17,2337
+30,Cebu,province,VII,3325385,2938982,4943.72,594
+32,Cotabato,province,XII,1490618,1379747,9008.9,153
+36,Davao de Oro,province,XI,767547,736107,4479.77,164
+37,Davao del Norte,province,XI,1125057,1016332,3426.97,297
+38,Davao del Sur,province,XI,680481,632588,2163.98,292
+39,Davao Occidental,province,XI,317159,316342,2163.45,146
+40,Davao Oriental,province,XI,576343,558958,5679.64,98
+41,Dinagat Islands,province,XIII,128117,127152,1036.34,123
+42,Eastern Samar,province,VIII,477168,467160,4660.47,100
+44,Guimaras,province,VI,187842,174613,604.57,289
+45,Ifugao,province,CAR,207498,202802,2628.21,77
+47,Ilocos Norte,province,I,609588,593081,3467.89,171
+48,Ilocos Sur,province,I,706009,689668,2596.0,266
+49,Iloilo,province,VI,2051899,1936423,5000.83,387
+51,Isabela,province,II,1548470,1458736,12159.43,120
+52,Kalinga,province,CAR,229570,212680,3231.25,66
+53,La Union,province,I,822352,786653,1497.7,525
+54,Laguna,province,IV-A,3382193,3035081,1917.85,1583
+55,Lanao del Norte,province,X,722902,676395,3346.57,202
+56,Lanao del Sur,province,BARMM,1195518,1045429,3872.89,270
+59,Leyte,province,VIII,1545849,1509648,5699.73,265
+61,Maguindanao,province,BARMM,1342179,1173933,4871.6,241
+68,Marinduque,province,Mimaropa,239207,234521,952.58,246
+69,Masbate,province,V,908920,892393,4151.78,215
+70,Misamis Occidental,province,X,617333,602126,2055.22,293
+71,Misamis Oriental,province,X,956900,888509,3131.52,284
+72,Mountain Province,province,CAR,158200,154590,2157.38,72
+76,Negros Occidental,province,VI,2623172,2497261,7802.54,320
+77,Negros Oriental,province,VII,1432990,1354995,5385.53,252
+78,Northern Samar,province,VIII,639186,632379,3692.93,171
+79,Nueva Ecija,province,III,2310134,2151461,5751.33,374
+80,Nueva Vizcaya,province,II,497432,452287,3975.67,114
+81,Occidental Mindoro,province,Mimaropa,525354,487414,5865.71,83
+83,Oriental Mindoro,province,Mimaropa,908339,844059,4238.38,199
+85,Palawan,province,Mimaropa,939594,849469,14649.73,58
+86,Pampanga,province,III,2437709,2198110,2002.2,1098
+87,Pangasinan,province,I,2988888,2785455,5413.78,515
+93,Quezon,province,IV-A,1950459,1856582,8989.39,207
+95,Quirino,province,II,203828,188991,2323.47,81
+96,Rizal,province,IV-A,3330143,2884227,1191.94,2420
+97,Romblon,province,Mimaropa,308985,292781,1533.45,191
+98,Samar,province,VIII,793183,780481,6048.03,129
+101,Sarangani,province,XII,558946,544261,3601.25,151
+102,Siquijor,province,VII,103395,95984,337.49,284
+103,Sorsogon,province,V,828655,792949,2119.01,374
+104,South Cotabato,province,XII,975476,915289,3935.95,233
+105,Southern Leyte,province,VIII,429573,421750,1798.61,234
+106,Sultan Kudarat,province,XII,854052,812095,5298.34,153
+107,Sulu,province,BARMM,1000108,824731,1600.4,515
+108,Surigao del Norte,province,XIII,534636,485088,1972.93,246
+109,Surigao del Sur,province,XIII,642255,592250,4932.7,120
+112,Tarlac,province,III,1503456,1366027,3053.6,447
+113,Tawi-Tawi,province,BARMM,440276,390715,1087.4,359
+115,Zambales,province,III,649615,590848,3645.83,162
+117,Zamboanga del Norte,province,IX,1047455,1011393,7301.0,139
+118,Zamboanga del Sur,province,IX,1050668,1010674,4499.46,225
+119,Zamboanga Sibugay,province,IX,669840,633129,3607.75,175

@@ -1,0 +1,147 @@
+,City or municipality,Population (2020) ,Area (km2),PD (2020),Brgy.,Class,Province
+0,Cabadbaran,80354,214.44,374.72,31,CC,Agusan del Norte
+1,Bayugan,109499,688.77,158.98,43,CC,Agusan del Sur
+2,Legazpi,209533,153.7,1363.26,70,CC,Albay
+3,Ligao,118096,246.75,478.61,55,CC,Albay
+4,Tabaco,140961,117.14,1203.35,47,CC,Albay
+5,Isabela,130379,223.73,582.75,45,CC,Basilan
+6,Lamitan,100150,354.45,282.55,45,CC,Basilan
+7,Balanga,104173,111.63,933.2,25,CC,Bataan
+8,Batangas City,351437,282.96,1242,107,CC,Batangas
+9,Lipa,372931,209.4,1780.95,72,CC,Batangas
+10,Santo Tomas,218500,95.41,2290.12,30,CC,Batangas
+11,Tanauan,193936,107.16,1809.78,48,CC,Batangas
+12,Tagbilaran,104976,36.5,2876.05,15,CC,Bohol
+13,Malaybalay,190712,969.19,196.77,46,CC,Bukidnon
+14,Valencia,216546,587.29,368.72,31,CC,Bukidnon
+15,Malolos,261189,67.25,3883.85,51,CC,Bulacan
+16,Meycauayan,225673,32.1,7030.31,26,CC,Bulacan
+17,San Jose del Monte,651813,105.53,6176.57,59,CC,Bulacan
+18,Tuguegarao,166334,144.8,1148.72,49,CC,Cagayan
+19,Iriga,114457,137.35,833.32,36,CC,Camarines Sur
+20,Roxas,179292,95.07,1885.89,47,CC,Capiz
+21,Bacoor,664625,46.17,14395.17,73,CC,Cavite
+22,Cavite City,100674,10.89,9244.63,84,CC,Cavite
+23,Dasmariñas,703141,90.13,7801.41,75,CC,Cavite
+24,General Trias,450583,81.46,5531.34,33,CC,Cavite
+25,Imus,496794,64.7,7678.42,97,CC,Cavite
+26,Tagaytay,85330,65,1312.77,34,CC,Cavite
+27,Trece Martires,210503,39.1,5383.71,13,CC,Cavite
+28,Bogo,88867,103.52,858.45,29,CC,Cebu
+29,Carcar,136453,116.78,1168.46,15,CC,Cebu
+30,Danao,156321,107.3,1456.86,42,CC,Cebu
+31,Naga,133184,101.97,1306.11,28,CC,Cebu
+32,Talisay,263048,39.87,6597.64,22,CC,Cebu
+33,Toledo,207314,216.28,958.54,38,CC,Cebu
+34,Kidapawan,160791,358.47,448.55,40,CC,Cotabato
+35,Panabo,209230,251.23,832.82,40,CC,Davao del Norte
+36,Samal,116771,301.3,387.56,46,CC,Davao del Norte
+37,Tagum,296202,195.8,1512.78,23,CC,Davao del Norte
+38,Digos,188376,287.1,656.13,26,CC,Davao del Sur
+39,Mati,147547,588.63,250.66,26,CC,Davao Oriental
+40,Borongan,71961,475,151.5,61,CC,Eastern Samar
+41,Batac,55484,161.06,344.49,43,CC,Ilocos Norte
+42,Laoag,111651,116.08,961.85,80,CC,Ilocos Norte
+43,Candon,61432,103.28,594.81,42,CC,Ilocos Sur
+44,Vigan,53935,25.12,2147.09,39,CC,Ilocos Sur
+45,Passi,88873,251.39,353.53,51,CC,Iloilo
+46,Cauayan,143403,336.4,426.29,65,CC,Isabela
+47,Ilagan,158218,1166.26,135.66,91,CC,Isabela
+48,Tabuk,121033,700.25,172.84,43,CC,Kalinga
+49,San Fernando,125640,102.72,1223.13,59,CC,La Union
+50,Biñan,407437,43.5,9366.37,24,CC,Laguna
+51,Cabuyao,355330,43.4,8187.33,18,CC,Laguna
+52,Calamba,539671,149.5,3609.84,54,CC,Laguna
+53,San Pablo,285348,197.56,1444.36,80,CC,Laguna
+54,San Pedro,326001,24.05,13555.14,27,CC,Laguna
+55,Santa Rosa,414812,54.84,7564.04,18,CC,Laguna
+56,Marawi,207010,87.55,2364.48,96,CC,Lanao del Sur
+57,Baybay,111848,459.3,243.52,92,CC,Leyte
+58,Masbate City,104522,188,555.97,30,CC,Masbate
+59,Oroquieta,72301,237.88,303.94,47,CC,Misamis Occidental
+60,Ozamiz,140334,169.95,825.74,51,CC,Misamis Occidental
+61,Tangub,68389,162.78,420.13,55,CC,Misamis Occidental
+62,El Salvador,58771,106.15,553.66,15,CC,Misamis Oriental
+63,Gingoog,136698,568.44,240.48,79,CC,Misamis Oriental
+64,Bago,191210,401.2,476.6,24,CC,Negros Occidental
+65,Cadiz,158544,524.57,302.24,22,CC,Negros Occidental
+66,Escalante,96159,192.76,498.85,21,CC,Negros Occidental
+67,Himamaylan,116240,367.04,316.7,19,CC,Negros Occidental
+68,Kabankalan,200198,697.35,287.08,32,CC,Negros Occidental
+69,La Carlota,66664,137.29,485.57,14,CC,Negros Occidental
+70,Sagay,148894,330.34,450.73,25,CC,Negros Occidental
+71,San Carlos,132650,451.5,293.8,18,CC,Negros Occidental
+72,Silay,130478,214.8,607.44,16,CC,Negros Occidental
+73,Sipalay,72448,379.78,190.76,17,CC,Negros Occidental
+74,Talisay,108909,201.18,541.35,27,CC,Negros Occidental
+75,Victorias,90101,133.92,672.8,26,CC,Negros Occidental
+76,Bais,84317,319.64,263.79,35,CC,Negros Oriental
+77,Bayawan,122747,699.08,175.58,28,CC,Negros Oriental
+78,Canlaon,58822,170.93,344.13,12,CC,Negros Oriental
+79,Dumaguete,134103,33.62,3988.79,30,CC,Negros Oriental
+80,Guihulngan,102656,388.56,264.2,33,CC,Negros Oriental
+81,Tanjay,82642,267.05,309.46,24,CC,Negros Oriental
+82,Cabanatuan,327325,192.29,1702.25,89,CC,Nueva Ecija
+83,Gapan,122968,118,1042.1,23,CC,Nueva Ecija
+84,Muñoz,84308,163.05,517.07,37,CC,Nueva Ecija
+85,Palayan,45383,101.4,447.56,19,CC,Nueva Ecija
+86,San Jose,150917,185.99,811.43,38,CC,Nueva Ecija
+87,Calapan,145786,250.06,583,62,CC,Oriental Mindoro
+88,Mabalacat,293244,83.18,3525.41,27,CC,Pampanga
+89,San Fernando,354666,67.74,5235.7,35,CC,Pampanga
+90,Alaminos,99397,164.26,605.12,39,CC,Pangasinan
+91,San Carlos,205424,169.03,1215.31,86,CC,Pangasinan
+92,Urdaneta,144577,100.26,1442.02,34,CC,Pangasinan
+93,Tayabas,112658,230.95,487.8,66,CC,Quezon
+94,Antipolo,887399,306.1,2899.05,16,CC,Rizal
+95,Calbayog,186960,880.74,212.28,157,CC,Samar
+96,Catbalogan,106440,274.22,388.16,57,CC,Samar
+97,Sorsogon City,182237,276.11,660.02,64,CC,Sorsogon
+98,Koronadal,195398,277,705.41,27,CC,South Cotabato
+99,Maasin,87446,211.71,413.05,70,CC,Southern Leyte
+100,Tacurong,109319,153.4,712.64,20,CC,Sultan Kudarat
+101,Surigao City,171107,245.3,697.54,54,CC,Surigao del Norte
+102,Bislig,99290,331.8,299.25,24,CC,Surigao del Sur
+103,Tandag,62669,291.73,214.82,21,CC,Surigao del Sur
+104,Tarlac City,385398,274.66,1403.18,76,CC,Tarlac
+105,Dapitan,85202,390.53,218.17,50,CC,Zamboanga del Norte
+106,Dipolog,138141,241.13,572.89,21,CC,Zamboanga del Norte
+107,Pagadian,210452,378.8,555.58,54,CC,Zamboanga del Sur
+108,Butuan,372910,816.62,456.65,86,HUC,Agusan del Norte
+109,Baguio,366358,57.51,6370.34,129,HUC,Benguet
+110,Cebu City,964169,315,3060.85,80,HUC,Cebu
+111,Lapu-Lapu,497604,58.1,8564.61,30,HUC,Cebu
+112,Mandaue,364116,34.87,10442.1,27,HUC,Cebu
+113,Davao City,1776949,2443.61,727.18,182,HUC,Davao del Sur
+114,Iloilo City,457626,78.34,5841.54,180,HUC,Iloilo
+115,Iligan,363115,813.37,446.43,44,HUC,Lanao del Norte
+116,Tacloban,251881,201.72,1248.67,138,HUC,Leyte
+117,Caloocan,1661584,55.8,29777.49,188,HUC,Metro Manila
+118,Las Piñas,606293,32.69,18546.74,20,HUC,Metro Manila
+119,Makati,629616,21.57,29189.43,33,HUC,Metro Manila
+120,Malabon,380522,15.71,24221.64,21,HUC,Metro Manila
+121,Mandaluyong,425758,21.26,20026.25,27,HUC,Metro Manila
+122,Manila,1846513,38.55,47899.17,897,HUC,Metro Manila
+123,Marikina,456059,21.52,21192.33,16,HUC,Metro Manila
+124,Muntinlupa,543445,39.75,13671.57,9,HUC,Metro Manila
+125,Navotas,247543,10.77,22984.49,18,HUC,Metro Manila
+126,Parañaque,689992,47.69,14468.27,16,HUC,Metro Manila
+127,Pasay,440656,13.97,31543.02,201,HUC,Metro Manila
+128,Pasig,803159,31,25908.35,30,HUC,Metro Manila
+129,Quezon City,2960048,166.2,17810.16,142,HUC,Metro Manila
+130,San Juan,126347,5.95,21234.79,21,HUC,Metro Manila
+131,Taguig,886722,53.67,16521.74,28,HUC,Metro Manila
+132,Valenzuela,714978,47.02,15205.83,33,HUC,Metro Manila
+133,Cagayan de Oro,728402,412.8,1764.54,80,HUC,Misamis Oriental
+134,Bacolod,600783,162.67,3693.26,61,HUC,Negros Occidental
+135,Puerto Princesa,307079,2381.02,128.97,66,HUC,Palawan
+136,Angeles,462928,60.27,7680.9,33,HUC,Pampanga
+137,Lucena,278924,80.21,3477.42,33,HUC,Quezon
+138,General Santos,697315,492.86,1414.83,26,HUC,South Cotabato
+139,Olongapo,260317,185,1407.12,17,HUC,Zambales
+140,Zamboanga City,977234,1453.27,690.77,98,HUC,Zamboanga del Sur
+141,Naga,209170,84.48,2475.97,27,ICC,Camarines Sur
+142,Santiago,148580,255.5,581.53,37,ICC,Isabela
+143,Ormoc,230998,613.6,376.46,110,ICC,Leyte
+144,Cotabato City,325079,176,1847.04,37,ICC,Maguindanao
+145,Dagupan,174302,37.23,4681.76,31,ICC,Pangasinan
