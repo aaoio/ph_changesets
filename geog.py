@@ -9,7 +9,6 @@ import psycopg2.extras as extras
 def calculate_centroid(min_lon, max_lon, min_lat, max_lat):
     """
     Return centroid point of changeset bounding box.
-    If point is set to False, return a tuple of centroid coordinates.  
     """
     centroid_lon = np.mean((float(min_lon), float(max_lon)))
     centroid_lat = np.mean((float(min_lat), float(max_lat)))
@@ -38,7 +37,6 @@ def geog_reference_tables(cursor):
     with open('GeoJSON/l3_regions.geojson') as f:
         ph_r = json.load(f)
     provinces = pd.read_csv('geog_tables/provinces.csv', index_col=0)
-    ph_cities_list = pd.read_csv('geog_tables/PH Cities List.csv', index_col=0)
     
     ### CITIES
     
